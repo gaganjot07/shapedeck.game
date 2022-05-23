@@ -1,3 +1,5 @@
+<img src="gameMedia/shape-deck-logo.png" align="right" />
+
 ## Shape Deck
 An addictive block puzzle game inspired by Hextris.<br />
 - Play it online [here](https://gaganjot07.github.io/shapedeck.game/).
